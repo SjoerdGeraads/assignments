@@ -13,3 +13,5 @@ This repository contains my assigments
 -----------------------------------------------------------------------------------------------------------------
 
 [Exam June 7 python](https://github.com/SjoerdGeraads/assignments/blob/master/exam_june_7_2018_%20done.ipynb)
+
+[Exam June 7 R](https://github.com/SjoerdGeraads/assignments/blob/master/Exam_student2.r)
